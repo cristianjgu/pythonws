@@ -1,1 +1,1 @@
-web pruba main:app
+web: guinicorn pruba:app
