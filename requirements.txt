@@ -8,3 +8,5 @@ setuptools==63.2.0
 gunicorn==19.6.0
 Werkzeug==2.2.2
 Flask-Enterprise==1.0
+numpy==1.23.3
+graphviz==0.20.1
